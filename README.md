@@ -64,7 +64,6 @@
 - 💻 Actualmente trabajo en **desarrollo web** con JavaScript y React
 - 🌱 Estoy aprendiendo todo sobre **Frontend** (y un poco de Backend)
 - 🎯 Metas a futuro: seguir creando proyectos reales y nunca dejar de aprender
-- ⚡ Dato curioso: [algo sobre ti — un hobby, un videojuego, música...]
 
 ## 🛠️ Mis Habilidades
 
