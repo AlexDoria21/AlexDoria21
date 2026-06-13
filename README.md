@@ -50,8 +50,8 @@
 
 ## 📫 Where to find me
 
-- LinkedIn: [your profile link]
-- Email: [your email]
+- LinkedIn: ![LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
+- Email: ![Email](efrainortizdoria921@gmail.com)
 
 ---
 
@@ -69,20 +69,23 @@
 
 **Lenguajes**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+!![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frameworks y Librerías**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Bases de Datos**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Herramientas**
 
@@ -92,5 +95,5 @@
 
 ## 📫 Dónde encontrarme
 
-- LinkedIn: [enlace a tu perfil]
-- Correo: [tu correo]
+- LinkedIn: ![LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
+- Email: ![Email](efrainortizdoria921@gmail.com)
