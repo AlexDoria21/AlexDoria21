@@ -1,9 +1,8 @@
 <!--
 =========================================================
-  VERSIÓN 1 · DINÁMICA / ANIMADA
-  IMPORTANTE: reemplaza TU_USUARIO por tu usuario real de
-  GitHub para que las estadísticas, la racha y los trofeos
-  se generen. Los iconos y el banner NO necesitan usuario.
+  VERSIÓN 2 · MINIMALISTA / LIMPIA
+  Reemplaza TU_USUARIO en la tarjeta de estadísticas.
+  Estilo sobrio, basado en tablas y mucho espacio en blanco.
 =========================================================
 -->
 
@@ -13,78 +12,56 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Efrain%20Ortiz&fontColor=ffffff&fontSize=50&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=520&lines=Frontend+Developer;Building+with+JavaScript+%26+React;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=AlexDoria21&label=Profile%20views&color=8E2DE2&style=flat" alt="profile views" />
-
-</div>
-
 ---
 
 <a id="-english"></a>
-## 👋 English
 
-- 💻 Currently working on **web development** with JavaScript and React
-- 🌱 Learning everything about **Frontend** (and a bit of Backend)
-- 🎯 Goal: keep building real projects and never stop learning
+# Efrain Ortiz
 
-### 🧰 Tech Stack
+`Frontend Developer`  ·  `JavaScript & React`  ·  `Always learning`
 
-<div align="center">
+I build web interfaces and I'm currently focused on **Frontend development**, with a bit of Backend on the side. My goal is simple: keep shipping real projects and never stop learning.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,tailwind,mysql,mongodb,git,github,vscode&perline=7" />
+### Skills
 
-</div>
+|  |  |
+|---|---|
+| **Languages** | HTML · CSS · JavaScript · Python |
+| **Frameworks & Libraries** | React · Vite · Node.js · Tailwind CSS |
+| **Databases** | MySQL · MongoDB |
+| **Tools** | Git · GitHub · VS Code |
 
-### 📊 GitHub Stats
+### Stats
 
-<div align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=AlexDoria21&show_icons=true&hide_border=true&theme=graywhite&hide_title=true&bg_color=00000000)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexDoria21&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=AlexDoria21&theme=radical&hide_border=true" />
+### Contact
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlexDoria21&theme=radical&no-frame=true&row=1&column=7" />
-
-</div>
-
-### 📫 Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efrainortizdoria921@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)  ·  [Email](mailto:efrainortizdoria921@gmail.com)
 
 ---
 
 <a id="-español"></a>
-## 👋 Español
 
-- 💻 Actualmente trabajo en **desarrollo web** con JavaScript y React
-- 🌱 Aprendiendo todo sobre **Frontend** (y un poco de Backend)
-- 🎯 Meta: seguir creando proyectos reales y nunca dejar de aprender
+# Efrain Ortiz
 
-### 🧰 Tecnologías
+`Desarrollador Frontend`  ·  `JavaScript y React`  ·  `Siempre aprendiendo`
 
-<div align="center">
+Construyo interfaces web y actualmente me enfoco en el **desarrollo Frontend**, con algo de Backend. Mi meta es sencilla: seguir lanzando proyectos reales y nunca dejar de aprender.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,tailwind,mysql,mongodb,git,github,vscode&perline=7" />
+### Habilidades
 
-</div>
+|  |  |
+|---|---|
+| **Lenguajes** | HTML · CSS · JavaScript · Python |
+| **Frameworks y Librerías** | React · Vite · Node.js · Tailwind CSS |
+| **Bases de Datos** | MySQL · MongoDB |
+| **Herramientas** | Git · GitHub · VS Code |
 
-### 📊 Estadísticas
+### Estadísticas
 
-<div align="center">
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=AlexDoria21&show_icons=true&hide_border=true&theme=graywhite&hide_title=true&bg_color=00000000&locale=es)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexDoria21&show_icons=true&theme=radical&hide_border=true&locale=es" />
-<img height="165" src="https://streak-stats.demolab.com/?user=AlexDoria21&theme=radical&hide_border=true&locale=es" />
+### Contacto
 
-</div>
-
-### 📫 Dónde encontrarme
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efrainortizdoria921@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" width="100%"/>
+[LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)  ·  [Email](mailto:efrainortizdoria921@gmail.com)
