@@ -50,8 +50,8 @@
 
 ## 📫 Where to find me
 
-- LinkedIn: ![LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
-- Email: ![Email](efrainortizdoria921@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
+- [Email](efrainortizdoria921@gmail.com)
 
 ---
 
@@ -95,5 +95,5 @@
 
 ## 📫 Dónde encontrarme
 
-- LinkedIn: ![LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
-- Email: ![Email](efrainortizdoria921@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
+- [Email](efrainortizdoria921@gmail.com)
