@@ -1,16 +1,3 @@
-<!--
-=========================================================
-  VERSIÓN COMBINADA (v1 + v3)
-  - Banner ondulante + texto en bucle + nombre  (v1)
-  - Iconos de skillicons.dev                      (v1)
-  - Frase aleatoria de programación               (v3)
-
-  NOTA: esta versión funciona TAL CUAL, no necesitas
-  reemplazar ningún usuario. Si más adelante quieres
-  estadísticas, racha o trofeos, esos sí piden tu
-  usuario de GitHub (pídemelo y te los agrego).
-=========================================================
--->
 
 <div align="center">
 
@@ -18,7 +5,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Efrain%20Ortiz&fontColor=ffffff&fontSize=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Efrain%20Doria&fontColor=ffffff&fontSize=50&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
