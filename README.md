@@ -33,7 +33,7 @@
 <a id="-english"></a>
 ## 👋 English
 
-- 💻 Currently working on **web development** with JavaScript and React
+- 💻 Currently working on **web development**
 - 🌱 Learning everything about **Frontend** (and a bit of Backend)
 - 🎯 Goal: keep building real projects and never stop learning
 
@@ -55,7 +55,7 @@
 <a id="-español"></a>
 ## 👋 Español
 
-- 💻 Actualmente trabajo en **desarrollo web** con JavaScript y React
+- 💻 Actualmente trabajo en **desarrollo web** 
 - 🌱 Aprendiendo todo sobre **Frontend** (y un poco de Backend)
 - 🎯 Meta: seguir creando proyectos reales y nunca dejar de aprender
 
