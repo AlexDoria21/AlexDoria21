@@ -51,7 +51,7 @@
 ## 📫 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
-- [Email](efrainortizdoria921@gmail.com)
+- [efrainortizdoria921@gmail.com](mailto:efrainortizdoria921@gmail.com)
 
 ---
 
