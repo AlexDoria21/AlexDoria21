@@ -33,7 +33,7 @@
 <a id="-english"></a>
 ## 👋 English
 
-- 💻 Currently working on **web development**
+- 💻 Currently working on **web development** with JavaScript and React
 - 🌱 Learning everything about **Frontend** (and a bit of Backend)
 - 🎯 Goal: keep building real projects and never stop learning
 
@@ -42,6 +42,17 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,tailwind,mysql,mongodb,git,github,vscode&perline=7" />
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexDoria21&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=AlexDoria21&theme=radical&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlexDoria21&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -55,7 +66,7 @@
 <a id="-español"></a>
 ## 👋 Español
 
-- 💻 Actualmente trabajo en **desarrollo web** 
+- 💻 Actualmente trabajo en **desarrollo web** con JavaScript y React
 - 🌱 Aprendiendo todo sobre **Frontend** (y un poco de Backend)
 - 🎯 Meta: seguir creando proyectos reales y nunca dejar de aprender
 
@@ -64,6 +75,17 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,tailwind,mysql,mongodb,git,github,vscode&perline=7" />
+
+</div>
+
+### 📊 Estadísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexDoria21&show_icons=true&theme=radical&hide_border=true&locale=es" />
+<img height="165" src="https://streak-stats.demolab.com/?user=AlexDoria21&theme=radical&hide_border=true&locale=es" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlexDoria21&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
