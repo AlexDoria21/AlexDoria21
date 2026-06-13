@@ -37,7 +37,7 @@
 
 **Databases**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -51,7 +51,7 @@
 ## 📫 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
-- [efrainortizdoria921@gmail.com](mailto:efrainortizdoria921@gmail.com)
+- [Email](mailto:efrainortizdoria921@gmail.com)
 
 ---
 
@@ -83,7 +83,7 @@
 
 **Bases de Datos**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -96,4 +96,4 @@
 ## 📫 Dónde encontrarme
 
 - [LinkedIn](https://www.linkedin.com/in/efrain-ortiz-doria-799a73264/)
-- [Email](efrainortizdoria921@gmail.com)
+- [Email](mailto:efrainortizdoria921@gmail.com)
