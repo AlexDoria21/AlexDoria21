@@ -20,7 +20,7 @@
 ## 👋 English
 
 - 🔭 Currently **Head of the IT Department**, working on process automation, AI solutions and web development
-- 🎓 **Computer Systems Engineering** student at UAT
+- 🎓 **Computer Systems Engineering**
 - 💻 Coding mainly in **Python**, and building web with **JavaScript** & **React**
 - 🌱 Growing as a **Fullstack Jr.** developer — always learning
 
@@ -52,17 +52,9 @@
 
 </div>
 
-### 💼 Experience
-
-**Head of the IT Department** — Suministros Industriales y Anticorrosivos RYDED · *Apr 2025 – Present*
-Process automation and AI-based solutions, customer-service chatbots, digital transformation, and a company website built with HTML, CSS & Tailwind.
-
-**IT Department Intern** — Pinturas Prisa · *Jan 2025 – Apr 2025*
-Tech asset management, network & WiFi security setup, CRM reporting, and technical training for new staff.
-
 ### 🎓 Education
 
-**B.Eng. in Computer Systems** — Universidad Autónoma de Tamaulipas · *2019 – Present*
+**B.Eng. in Computer Systems** — Universidad Autónoma de Tamaulipas 
 **Certificate in IT & Robotics** — Universidad del Noreste · *2015 – 2018*
 
 ### 🗣️ Languages
@@ -91,7 +83,7 @@ Tech asset management, network & WiFi security setup, CRM reporting, and technic
 ## 👋 Español
 
 - 🔭 Actualmente **Jefe del Departamento de TI**, trabajando en automatización de procesos, soluciones con IA y desarrollo web
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la UAT
+- 🎓 **Ingeniería en Sistemas Computacionales**
 - 💻 Programo principalmente en **Python**, y desarrollo web con **JavaScript** y **React**
 - 🌱 Creciendo como desarrollador **Fullstack Jr.** — siempre aprendiendo
 
@@ -123,17 +115,9 @@ Tech asset management, network & WiFi security setup, CRM reporting, and technic
 
 </div>
 
-### 💼 Experiencia
-
-**Jefe del Departamento de TI** — Suministros Industriales y Anticorrosivos RYDED · *Abr 2025 – Presente*
-Automatización de procesos y soluciones basadas en IA, chatbots de atención al cliente, transformación digital y página web de la empresa hecha con HTML, CSS y Tailwind.
-
-**Pasante del Departamento de TI** — Pinturas Prisa · *Ene 2025 – Abr 2025*
-Gestión de activos tecnológicos, configuración de redes y seguridad WiFi, reportes desde CRM y capacitación técnica a nuevo personal.
-
 ### 🎓 Educación
 
-**Ingeniería en Sistemas Computacionales** — Universidad Autónoma de Tamaulipas · *2019 – Presente*
+**Ingeniería en Sistemas Computacionales** — Universidad Autónoma de Tamaulipas · 
 **Certificado en Tecnologías de la Información y Robótica** — Universidad del Noreste · *2015 – 2018*
 
 ### 🗣️ Idiomas
