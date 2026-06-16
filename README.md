@@ -19,9 +19,10 @@
 <a id="-english"></a>
 ## 👋 English
 
-- 💻 Currently working on **web development** with JavaScript and React
-- 🌱 Learning everything about **Frontend** (and a bit of Backend)
-- 🎯 Goal: keep building real projects and never stop learning
+- 🔭 Currently **Head of the IT Department**, working on process automation, AI solutions and web development
+- 🎓 **Computer Systems Engineering** student at UAT
+- 💻 Coding mainly in **Python**, and building web with **JavaScript** & **React**
+- 🌱 Growing as a **Fullstack Jr.** developer — always learning
 
 ### 🧰 Tech Stack
 
@@ -45,9 +46,28 @@
 
 **IDEs**
 
-<img src="https://skillicons.dev/icons?i=vscode" />
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white)
 
 </div>
+
+### 💼 Experience
+
+**Head of the IT Department** — Suministros Industriales y Anticorrosivos RYDED · *Apr 2025 – Present*
+Process automation and AI-based solutions, customer-service chatbots, digital transformation, and a company website built with HTML, CSS & Tailwind.
+
+**IT Department Intern** — Pinturas Prisa · *Jan 2025 – Apr 2025*
+Tech asset management, network & WiFi security setup, CRM reporting, and technical training for new staff.
+
+### 🎓 Education
+
+**B.Eng. in Computer Systems** — Universidad Autónoma de Tamaulipas · *2019 – Present*
+**Certificate in IT & Robotics** — Universidad del Noreste · *2015 – 2018*
+
+### 🗣️ Languages
+
+🇲🇽 Spanish — Native &nbsp;·&nbsp; 🇬🇧 English — C1 (Advanced)
 
 ### 📊 GitHub Stats
 
@@ -70,9 +90,10 @@
 <a id="-español"></a>
 ## 👋 Español
 
-- 💻 Actualmente trabajo en **desarrollo web** con JavaScript y React
-- 🌱 Aprendiendo todo sobre **Frontend** (y un poco de Backend)
-- 🎯 Meta: seguir creando proyectos reales y nunca dejar de aprender
+- 🔭 Actualmente **Jefe del Departamento de TI**, trabajando en automatización de procesos, soluciones con IA y desarrollo web
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la UAT
+- 💻 Programo principalmente en **Python**, y desarrollo web con **JavaScript** y **React**
+- 🌱 Creciendo como desarrollador **Fullstack Jr.** — siempre aprendiendo
 
 ### 🧰 Tecnologías
 
@@ -96,9 +117,28 @@
 
 **IDEs**
 
-<img src="https://skillicons.dev/icons?i=vscode" />
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white)
 
 </div>
+
+### 💼 Experiencia
+
+**Jefe del Departamento de TI** — Suministros Industriales y Anticorrosivos RYDED · *Abr 2025 – Presente*
+Automatización de procesos y soluciones basadas en IA, chatbots de atención al cliente, transformación digital y página web de la empresa hecha con HTML, CSS y Tailwind.
+
+**Pasante del Departamento de TI** — Pinturas Prisa · *Ene 2025 – Abr 2025*
+Gestión de activos tecnológicos, configuración de redes y seguridad WiFi, reportes desde CRM y capacitación técnica a nuevo personal.
+
+### 🎓 Educación
+
+**Ingeniería en Sistemas Computacionales** — Universidad Autónoma de Tamaulipas · *2019 – Presente*
+**Certificado en Tecnologías de la Información y Robótica** — Universidad del Noreste · *2015 – 2018*
+
+### 🗣️ Idiomas
+
+🇲🇽 Español — Nativo &nbsp;·&nbsp; 🇬🇧 Inglés — C1 (Avanzado)
 
 ### 📊 Estadísticas
 
