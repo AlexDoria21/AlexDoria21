@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ### 🌐 [English](#-english) · [Español](#-español)
@@ -28,7 +27,25 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,tailwind,mysql,mongodb,git,github,vscode&perline=7" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,tailwind" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+**IDEs**
+
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </div>
 
@@ -61,7 +78,25 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,tailwind,mysql,mongodb,git,github,vscode&perline=7" />
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+
+**Frameworks y Librerías**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,tailwind" />
+
+**Bases de Datos**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+**IDEs**
+
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </div>
 
